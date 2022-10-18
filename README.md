@@ -20,5 +20,5 @@ I'm @VladyYerys
 - 👯 I always focus on how I can add value to the organization by providing secure and innovative solutions based on the needs of the business.
 - 🔭 I’m currently studing at EPAM University Program
 - 🌱 I’m currently learning CI/CD piplines
-- ⚡⚡⚡ Areas of interest:
-> Automation> Boto3> AWS> CI/CD
+- ⚡⚡⚡ Areas of interest: Automation, Boto3, AWS, CI/CD
+- 💬 Contact me https://t.me/VladyYerys 
