@@ -1,10 +1,10 @@
 
 
-<img src="https://user-images.githubusercontent.com/106797604/196503023-c61aac7c-cd1a-40ed-a668-725bbd24f70b.jpg" align="left">
+<img src="https://user-images.githubusercontent.com/106797604/196503023-c61aac7c-cd1a-40ed-a668-725bbd24f70b.jpg" align="right">
 
 ## Hi there 👋
 I'm [@VladyYerys](http://vladyyerys.com/)
-- 😄I am passionate about DevOps culture
+- 😄 I am passionate about DevOps culture
 - 🔭 I’m currently studing at EPAM University Program
 - 🌱 I’m currently learning CI/CD piplines
 - ⚡⚡⚡ Areas of interest: Automation, Boto3, AWS, CI/CD       
