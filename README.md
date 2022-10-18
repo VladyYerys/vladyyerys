@@ -21,7 +21,7 @@ I'm @VladyYerys
 - 🔭 I’m currently studing at EPAM University Program
 - 🌱 I’m currently learning CI/CD piplines
 - ⚡⚡⚡ Areas of interest:
-- > Automation
-- > Boto3
-- AWS
-- > CI/CD
+> Automation
+> Boto3
+> AWS
+> CI/CD
