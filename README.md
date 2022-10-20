@@ -1,6 +1,6 @@
 
 
-<img src="https://user-images.githubusercontent.com/106797604/196844024-bb46219c-8f8a-4bde-bb58-38bfc56f447c.png">
+<img src="https://user-images.githubusercontent.com/106797604/196844583-0f7d2bc3-52f0-487a-a54b-0a500eb61997.png">
 
 ## Hi there 👋
 I'm [@VladyYerys](http://vladyyerys.com/)
