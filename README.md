@@ -5,7 +5,10 @@
 ## Hi there 👋
 I'm [@VladyYerys](http://vladyyerys.com/)
 - 😄 I am passionate about DevOps culture
-- 🔭 I’m currently studying at EPAM University Program
+- 🔭 I’m currently studying at EPAM University on Cloud&DevOps Fundamentals
+- 🔭I’m currently studying at [PortaOne on Linux & Networks Administration](https://education.portaone.com/free-courses) Fall 2022
+- 🔭I started [Marathon_of_IT_technologies_EPAM_University](https://training.epam.ua/Events/Details/4?utm_source=telegram&utm_medium=post&utm_campaign=it-marathon&lang=ua)
+====================================
 - 🌱 I’m currently learning CI/CD pipelines
 - ⚡⚡⚡ Areas of interest: Automation, Boto3, AWS, CI/CD       
 - 👯 I always focus on how I can add value to the organization by providing secure and innovative solutions based on the needs of the business.
