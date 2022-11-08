@@ -12,8 +12,8 @@ I'm [@VladyYerys](http://vladyyerys.com/)
 
 =======================
 - 🌱 I’m in the first phase of the AWS Cloud Practitioner Essentials training
-- ⚡⚡⚡ Areas of interest: Automation, Boto3, AWS, CI/CD       
-- 👯 I always focus on how I can add value to the organization by providing secure and innovative solutions based on the needs of the business.
+- ⚡ Areas of interest: Automation, Boto3, AWS, CI/CD       
+- 🎯 I always focus on how I can add value to the organization by providing secure and innovative solutions based on the needs of the business.
 - 💬 Contact [me](https://t.me/VladyYerys) 
 - 💞️ *The world belongs to those who show up!
            Kind Regards,
