@@ -4,13 +4,22 @@
 
 ## Hi there 👋
 I'm [@VladyYerys](http://vladyyerys.com/)
-- 😄 I am passionate about DevOps culture
-- 🔭 I’m currently studying at EPAM University on Cloud&DevOps Fundamentals
-- 🔭I’m currently studying at [PortaOne on Linux & Networks Administration](https://education.portaone.com/free-courses) Fall 2022
-- 🔭I started [Marathon_of_IT_technologies_EPAM_University](https://training.epam.ua/Events/Details/4?utm_source=telegram&utm_medium=post&utm_campaign=it-marathon&lang=ua)
-
-
-=======================
+- 😄  Experience with basic networking
+- 🔭Experience with network troubleshooting
+- 🔭Experience with Linux, work with troubleshooting complex systems
+- 🔭Scripting skills BASH, Python
+- 🔭MySQL MySQL engines, SQL query analysis, troubleshooting, Galera, backups
+- 🔭Connect Git repository webhooks with Jenkins jobs
+- 🌱Experience with AWS cloud infrastructure: API Gateway, WebSocket API, EC2, S3, Lambda, Redis 
+Cache, Fargate, VPC, VPN, S3, Cognito, DynamoDB, Cloud Formation, AWS CI/CD stack (CodePipeline, 
+CodeBuild, CodeCommit, CodeDeploy) Create and maintain dashboards to show builds in flight, Develop
+deterministic builds and triggering
+- ⚡Experience with Docker | Dockerfile, Docker Compose containers in a production environment
+- ⚡Enhance monitoring, logging and metrics gathering
+- ⚡Experience with configuration management tools Ansible
+- ⚡Experience with instrumenting and utilizing monitoring tools for determining health status of a system
+Prometheus
+===============================
 - 🌱 I’m in the first phase of the AWS Cloud Practitioner Essentials training
 - ⚡ Areas of interest: Automation, Boto3, AWS, CI/CD       
 - 🎯 I always focus on how I can add value to the organization by providing secure and innovative solutions based on the needs of the business.
